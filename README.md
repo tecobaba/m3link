@@ -227,7 +227,7 @@ Same thing, but split up into separate files:
 Playlist in which each channel has its _country_ as a group title:
 
 ```
-https://iptv-org.github.io/iptv/index.country.m3u
+https://artofknot.com/index.country.m3u
 ```
 
 Same thing, but split up into separate files:
@@ -757,7 +757,7 @@ Same thing, but split up into separate files:
 Playlist in which each channel has its _region_ as a group title:
 
 ```
-https://iptv-org.github.io/iptv/index.region.m3u
+https://artofknot.com/index.region.m3u
 ```
 
 Same thing, but split up into separate files:
