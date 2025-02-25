@@ -2,25 +2,7 @@
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
-## Table of contents
 
-- 🚀 [How to use?](#how-to-use)
-- 📺 [Playlists](#playlists)
-- 🗓 [EPG](#epg)
-- 🗄 [Database](#database)
-- 👨‍💻 [API](#api)
-- 📚 [Resources](#resources)
-- 💬 [Discussions](#discussions)
-- ❓ [FAQ](#faq)
-- 🛠 [Contribution](#contribution)
-- ⚖ [Legal](#legal)
-- © [License](#license)
-
-## How to use?
-
-Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
-
-![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
 
 ## Playlists
 
@@ -56,7 +38,7 @@ Same thing, but split up into separate files:
   <tbody>
     <tr><td>Ulusal Kanallar</td><td align="right">71</td><td nowrap><code>https://artofknot.com/canli/ulusal.m3u</code></td></tr>
     <tr><td>Haber Kanalları</td><td align="right">71</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
-    <tr><td>Spor Kanalları</td><td align="right">71</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
+    <tr><td>Spor Kanalları</td><td align="right">256</td><td nowrap><code>https://artofknot.com/canli/sports.m3u</code></td></tr>
   </tbody>
 </table>
 
