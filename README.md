@@ -36,8 +36,8 @@ Same thing, but split up into separate files:
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>General</td><td align="right">2376</td><td nowrap><code>https://artofknot.com/canli/general.m3u</code></td></tr>
-    <tr><td>Haber Kanalları</td><td align="right">71</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
+    <tr><td>Ulusal Kanallar</td><td align="right">2376</td><td nowrap><code>https://artofknot.com/canli/general.m3u</code></td></tr>
+    <tr><td>Haber Kanalları</td><td align="right">771</td><td nowrap><code>https://artofknot.com/canli/news.m3u</code></td></tr>
     <tr><td>Spor Kanalları</td><td align="right">256</td><td nowrap><code>https://artofknot.com/canli/sports.m3u</code></td></tr>
   </tbody>
 </table>
