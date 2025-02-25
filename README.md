@@ -65,7 +65,7 @@ Same thing, but split up into separate files:
   </thead>
   <tbody>
    
-    <tr><td align="left">Türkiye</td><td align="right">246</td><td align="left" nowrap><code>https://artofknot.com/tur.m3u</code></td></tr>
+    <tr><td align="left">Türkçe</td><td align="right">246</td><td align="left" nowrap><code>https://artofknot.com/tur.m3u</code></td></tr>
     
   </tbody>
 </table>
@@ -92,9 +92,8 @@ Same thing, but split up into separate files:
     <tr><th align="left">Country</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-            
-    <tr><td>🇹🇷 Turkey</td><td align="right">276</td><td nowrap><code>https://artofknot.com/tur.m3u</code></td></tr>
-    <tr><td>🇹🇲 Turkmenistan</td><td align="right">17</td><td nowrap><code>https://iptv-org.github.io/iptv/countries/tm.m3u</code></td></tr>
+          
+    <tr><td>🇹🇷 Türkiye</td><td align="right">276</td><td nowrap><code>https://artofknot.com/tur.m3u</code></td></tr>
 
   </tbody>
 </table>
