@@ -106,67 +106,6 @@ Same thing, but split up into separate files:
     <tr><th align="left">Language</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td align="left">Acoli</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ach.m3u</code></td></tr>
-    <tr><td align="left">Adhola</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/adh.m3u</code></td></tr>
-    <tr><td align="left">Afghan Persian</td><td align="right">7</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/prs.m3u</code></td></tr>
-    <tr><td align="left">Afrikaans</td><td align="right">3</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/afr.m3u</code></td></tr>
-    <tr><td align="left">Albanian</td><td align="right">43</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/sqi.m3u</code></td></tr>
-    <tr><td align="left">Alur</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/alz.m3u</code></td></tr>
-    <tr><td align="left">Amharic</td><td align="right">8</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/amh.m3u</code></td></tr>
-    <tr><td align="left">Arabic</td><td align="right">367</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ara.m3u</code></td></tr>
-    <tr><td align="left">Armenian</td><td align="right">25</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hye.m3u</code></td></tr>
-    <tr><td align="left">Assamese</td><td align="right">7</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/asm.m3u</code></td></tr>
-    <tr><td align="left">Assyrian Neo-Aramaic</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/aii.m3u</code></td></tr>
-    <tr><td align="left">Ayizo Gbe</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ayb.m3u</code></td></tr>
-    <tr><td align="left">Aymara</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/aym.m3u</code></td></tr>
-    <tr><td align="left">Azerbaijani</td><td align="right">19</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/aze.m3u</code></td></tr>
-    <tr><td align="left">Baatonum</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bba.m3u</code></td></tr>
-    <tr><td align="left">Bambara</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bam.m3u</code></td></tr>
-    <tr><td align="left">Bashkir</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bak.m3u</code></td></tr>
-    <tr><td align="left">Basque</td><td align="right">8</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eus.m3u</code></td></tr>
-    <tr><td align="left">Belarusian</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bel.m3u</code></td></tr>
-    <tr><td align="left">Bengali</td><td align="right">32</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ben.m3u</code></td></tr>
-    <tr><td align="left">Bhojpuri</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bho.m3u</code></td></tr>
-    <tr><td align="left">Bosnian</td><td align="right">14</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bos.m3u</code></td></tr>
-    <tr><td align="left">Bulgarian</td><td align="right">34</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/bul.m3u</code></td></tr>
-    <tr><td align="left">Burmese</td><td align="right">9</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/mya.m3u</code></td></tr>
-    <tr><td align="left">Catalan</td><td align="right">51</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/cat.m3u</code></td></tr>
-    <tr><td align="left">Central Kurdish</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ckb.m3u</code></td></tr>
-    <tr><td align="left">Chewa</td><td align="right">3</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nya.m3u</code></td></tr>
-    <tr><td align="left">Chhattisgarhi</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hne.m3u</code></td></tr>
-    <tr><td align="left">Chiga</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/cgg.m3u</code></td></tr>
-    <tr><td align="left">Chinese</td><td align="right">187</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/zho.m3u</code></td></tr>
-    <tr><td align="left">Croatian</td><td align="right">22</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hrv.m3u</code></td></tr>
-    <tr><td align="left">Czech</td><td align="right">35</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ces.m3u</code></td></tr>
-    <tr><td align="left">Danish</td><td align="right">19</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dan.m3u</code></td></tr>
-    <tr><td align="left">Dendi (Benin)</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ddn.m3u</code></td></tr>
-    <tr><td align="left">Dhanwar (Nepal)</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dhw.m3u</code></td></tr>
-    <tr><td align="left">Dhivehi</td><td align="right">10</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/div.m3u</code></td></tr>
-    <tr><td align="left">Dholuo</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/luo.m3u</code></td></tr>
-    <tr><td align="left">Dimili</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/zza.m3u</code></td></tr>
-    <tr><td align="left">Dutch</td><td align="right">211</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/nld.m3u</code></td></tr>
-    <tr><td align="left">Dyula</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/dyu.m3u</code></td></tr>
-    <tr><td align="left">English</td><td align="right">2183</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/eng.m3u</code></td></tr>
-    <tr><td align="left">Estonian</td><td align="right">9</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/est.m3u</code></td></tr>
-    <tr><td align="left">Ewe</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ewe.m3u</code></td></tr>
-    <tr><td align="left">Faroese</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/fao.m3u</code></td></tr>
-    <tr><td align="left">Fataleka</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/far.m3u</code></td></tr>
-    <tr><td align="left">Filipino</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/fil.m3u</code></td></tr>
-    <tr><td align="left">Finnish</td><td align="right">25</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/fin.m3u</code></td></tr>
-    <tr><td align="left">Fon</td><td align="right">3</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/fon.m3u</code></td></tr>
-    <tr><td align="left">French</td><td align="right">494</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/fra.m3u</code></td></tr>
-    <tr><td align="left">Fulah</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ful.m3u</code></td></tr>
-    <tr><td align="left">Gaelic</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gla.m3u</code></td></tr>
-    <tr><td align="left">Galician</td><td align="right">13</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/glg.m3u</code></td></tr>
-    <tr><td align="left">Ganda</td><td align="right">5</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/lug.m3u</code></td></tr>
-    <tr><td align="left">Gen</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gej.m3u</code></td></tr>
-    <tr><td align="left">Georgian</td><td align="right">9</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/kat.m3u</code></td></tr>
-    <tr><td align="left">German</td><td align="right">335</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/deu.m3u</code></td></tr>
-    <tr><td align="left">Gikuyu</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/kik.m3u</code></td></tr>
-    <tr><td align="left">Goan Konkani</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/gom.m3u</code></td></tr>
-    <tr><td align="left">Greek</td><td align="right">122</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/ell.m3u</code></td></tr>
-    <tr><td align="left">Gujarati</td><td align="right">6</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/guj.m3u</code></td></tr>
-    <tr><td align="left">Gun</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/guw.m3u</code></td></tr>
     <tr><td align="left">Haitian</td><td align="right">4</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hat.m3u</code></td></tr>
     <tr><td align="left">Hausa</td><td align="right">2</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/hau.m3u</code></td></tr>
     <tr><td align="left">Hebrew</td><td align="right">14</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/languages/heb.m3u</code></td></tr>
