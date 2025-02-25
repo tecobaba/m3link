@@ -93,7 +93,7 @@ Same thing, but split up into separate files:
   </thead>
   <tbody>
           
-    <tr><td>🇹🇷 Türkiye</td><td align="right">276</td><td nowrap><code>https://artofknot.com/tur.m3u</code></td></tr>
+    <tr><td>🇹🇷 Türkiye</td><td align="right">276</td><td nowrap><code>https://artofknot.com/canli/tur.m3u</code></td></tr>
 
   </tbody>
 </table>
