@@ -31,7 +31,7 @@ There are several versions of playlists that differ in the way they are grouped.
 This playlist includes all known channels available in this repository.
 
 ```
-https://iptv-org.github.io/iptv/index.m3u
+https://artofknot.com/index.language.m3u
 ```
 
 ### Grouped by category
