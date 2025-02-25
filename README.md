@@ -43,7 +43,88 @@ Same thing, but split up into separate files:
 </table>
 
 </details>
+### Grouped by language
 
+<details>
+<summary>Expand</summary>
+<br>
+
+Playlist in which each channel has its _language_ as a group title:
+
+```
+https://artofknot.com/index.language.m3u
+```
+
+Same thing, but split up into separate files:
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr><th align="left">Language</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+  </thead>
+  <tbody>
+   
+    <tr><td align="left">Türkçe</td><td align="right">246</td><td align="left" nowrap><code>https://artofknot.com/canli/tur.m3u</code></td></tr>
+    
+  </tbody>
+</table>
+
+</details>
+
+### Grouped by country
+
+<details>
+<summary>Expand</summary>
+<br>
+
+Playlist in which each channel has its _country_ as a group title:
+
+```
+https://artofknot.com/index.country.m3u
+```
+
+Same thing, but split up into separate files:
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr><th align="left">Country</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+  </thead>
+  <tbody>
+          
+    <tr><td>🇹🇷 Türkiye</td><td align="right">276</td><td nowrap><code>https://artofknot.com/canli/tur.m3u</code></td></tr>
+
+  </tbody>
+</table>
+
+</details>
+
+### Grouped by region
+
+<details>
+<summary>Expand</summary>
+<br>
+
+Playlist in which each channel has its _region_ as a group title:
+
+```
+https://artofknot.com/index.region.m3u
+```
+
+Same thing, but split up into separate files:
+
+<!-- prettier-ignore -->
+<table>
+  <thead>
+    <tr><th align="left">Region</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+  </thead>
+  <tbody>
+
+    <tr><td align="left">Europe, the Middle East and Africa</td><td align="right">4933</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/emea.m3u</code></td></tr>
+    <tr><td align="left">European Union</td><td align="right">2853</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/regions/eu.m3u</code></td></tr>
+
+  </tbody>
+</table>
 
 
 </details>
