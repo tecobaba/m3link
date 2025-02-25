@@ -43,7 +43,7 @@ https://iptv-org.github.io/iptv/index.m3u
 Playlist in which each channel has its _category_ as a group title:
 
 ```
-https://iptv-org.github.io/iptv/index.category.m3u
+https://artofknot.com/index.category.m3u
 ```
 
 Same thing, but split up into separate files:
@@ -95,7 +95,7 @@ Same thing, but split up into separate files:
 Playlist in which each channel has its _language_ as a group title:
 
 ```
-https://iptv-org.github.io/iptv/index.language.m3u
+https://artofknot.com/index.language.m3u
 ```
 
 Same thing, but split up into separate files:
