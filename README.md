@@ -65,7 +65,7 @@ Same thing, but split up into separate files:
   </thead>
   <tbody>
    
-    <tr><td align="left">Türkçe</td><td align="right">246</td><td align="left" nowrap><code>https://artofknot.com/tur.m3u</code></td></tr>
+    <tr><td align="left">Türkçe</td><td align="right">246</td><td align="left" nowrap><code>https://artofknot.com/canli/tur.m3u</code></td></tr>
     
   </tbody>
 </table>
