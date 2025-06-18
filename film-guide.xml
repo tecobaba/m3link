@@ -11,14 +11,14 @@
     <icon src="https://image.tmdb.org/t/p/w500/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg"/>
   </channel>
 
-  <programme start="20250618080000 +0300" stop="20250618100000 +0300" channel="tt5117670">
+  <programme start="20250618080000 +0300" stop="20350618000000 +0300" channel="tt5117670">
     <title lang="tr">Peter Rabbit</title>
     <desc lang="tr">Yaramaz tavşan Peter, Bay McGregor’un sebze bahçesiyle uğraşırken kendini bir maceranın içinde bulur.</desc>
     <category>Animasyon</category>
     <icon src="https://image.tmdb.org/t/p/w500/cBWtdp8mgce4QQkH697LpaL0Iik.jpg"/>
   </programme>
 
-  <programme start="20250618100000 +0300" stop="20250618120000 +0300" channel="tt0032910">
+  <programme start="20250618100000 +0300" stop="20350618000000 +0300" channel="tt0032910">
     <title lang="tr">Pinocchio</title>
     <desc lang="tr">Bir tahta kukla olan Pinokyo, gerçek bir çocuk olabilmek için dürüstlüğün ve cesaretin önemini öğrenir.</desc>
     <category>Klasik</category>
