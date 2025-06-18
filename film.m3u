@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tecobaba/m3link/refs/heads/main/film-guide.xml"
 
 #EXTINF:0 tvg-id="tt5117670" tvg-logo="https://image.tmdb.org/t/p/w500/cBWtdp8mgce4QQkH697LpaL0Iik.jpg" group-title="✨ ANIMASYON  ✨COCUK✨",Peter Rabbit
 https://vidmody.com/mm/tt5117670/main/index.m3u8
