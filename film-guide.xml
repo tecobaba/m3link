@@ -16,6 +16,11 @@
     <desc lang="tr">Yaramaz tavşan Peter, Bay McGregor’un sebze bahçesiyle uğraşırken kendini bir maceranın içinde bulur.</desc>
     <category>Animasyon</category>
     <icon src="https://image.tmdb.org/t/p/w500/cBWtdp8mgce4QQkH697LpaL0Iik.jpg"/>
+    <credits>
+    <actor>James Corden</actor>
+    <actor>Domhnall Gleeson</actor>
+    <director>Will Gluck</director>
+    </credits>
   </programme>
 
   <programme start="20250618100000 +0300" stop="20350618000000 +0300" channel="tt0032910">
